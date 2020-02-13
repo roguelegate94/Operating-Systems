@@ -1,0 +1,3 @@
+The Operating System Will boot up itself. 
+While booting you can acess hardware or software changes in the UEFI. 
+You can then boot to the operating system and ascess many different applications. 
