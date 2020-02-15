@@ -3,5 +3,9 @@ While booting you can acess hardware or software changes in the UEFI.
 You can then boot to the operating system and ascess many different applications. 
 
 The Operating system works with the ram. 
-different data is stored in different areas
-the ram is Random-access memory
+Dfferent data is stored in different areas.
+The ram is Random-access memory
+
+The Operating system gives the users an interface to work with.
+The user can user applications such as ms word on windows and safari on mac
+There are three different main OS windows, MAC, Linux
