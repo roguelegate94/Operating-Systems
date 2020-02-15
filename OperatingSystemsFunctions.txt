@@ -8,4 +8,4 @@ The ram is Random-access memory
 
 The Operating system gives the users an interface to work with.
 The user can user applications such as ms word on windows and safari on mac
-There are three different main OS windows, MAC, Linux
+There are three different main OS windows, MAC, Linux.
